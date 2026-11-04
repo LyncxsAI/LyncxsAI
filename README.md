@@ -57,7 +57,7 @@
 </td>
 <td width="45%" align="center" valign="middle">
 
-<img src="https://github-readme-stats.vercel.app/api?username=LyncxsAI&show_icons=true&hide_border=false&border_color=14532D&border_radius=14&bg_color=0D1117&title_color=4ADE80&text_color=C9D1D9&icon_color=22C55E&ring_color=22C55E&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub stats" width="100%"/>
+<img src="https://ghstats.dev/api/card?username=LyncxsAI&show_icons=true&hide_border=false&border_color=14532D&border_radius=14&bg_color=0D1117&title_color=4ADE80&text_color=C9D1D9&icon_color=22C55E&theme=dark" alt="GitHub stats" width="100%"/>
 
 </td>
 </tr>
@@ -99,7 +99,7 @@
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=LyncxsAI&hide_border=false&border_radius=14&background=0D1117&stroke=14532D&ring=22C55E&fire=10B981&currStreakNum=FFFFFF&currStreakLabel=4ADE80&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E" alt="Streak" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LyncxsAI&layout=donut&hide_border=false&border_color=14532D&border_radius=14&bg_color=0D1117&title_color=4ADE80&text_color=C9D1D9" alt="Top languages" height="170"/>
+<img src="https://ghstats.dev/api/langs?username=LyncxsAI&layout=donut&hide_border=false&border_color=14532D&border_radius=14&bg_color=0D1117&title_color=4ADE80&text_color=C9D1D9&theme=dark" alt="Top languages" height="170"/>
 
 </div>
 
@@ -118,6 +118,15 @@
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=LyncxsAI&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="Trophies"/>
+
+</div>
+
+<!-- ═══════════════════════════ 3D CONTRIBUTIONS ═══════════════════════════ -->
+<h2 align="center">🗓️ 3D CONTRIBUTION CALENDAR</h2>
+
+<div align="center">
+
+![](./profile-3d-contrib/profile-green.svg)
 
 </div>
 
